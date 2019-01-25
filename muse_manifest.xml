@@ -1,0 +1,220 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.westcoastyoganz.com" resolutions="1x,2x" timestamp="1548399500025">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="3957016212" ref="classes:products:index"/>
+    <file name="classes.css" crc="169007223" ref="classes"/>
+    <file name="products.css" crc="4125444448" ref="products"/>
+    <file name="index.css" crc="3965631467" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:classes:products"/>
+    <file name="museutils.js" crc="340535759" ref="index:classes:products"/>
+    <file name="whatinput.js" crc="86476730" ref="index:classes:products"/>
+    <file name="museconfig.js" crc="310584261" ref="index:classes:products"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:classes:products"/>
+    <file name="require.js" crc="7928878" ref="index:classes:products"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="304153383" ref="index"/>
+    <file name="lip-logo-williamking.png" crc="4046132770" seo="true" ref="index:classes:products">
+      <caption webpage="index" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="classes" alt=""/>
+    </file>
+    <file name="lip-logo-williamking_2x.png" crc="3857560520" seo="true" ref="index:classes:products">
+      <caption webpage="index" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="classes" alt=""/>
+    </file>
+    <file name="title.png" crc="4017351630" seo="true" ref="index:classes:products">
+      <caption webpage="index" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="classes" alt=""/>
+    </file>
+    <file name="title_2x.png" crc="4017351630" seo="true" ref="index:classes:products">
+      <caption webpage="index" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="classes" alt=""/>
+    </file>
+    <file name="about71x13.png" crc="414220205" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="about71x13_2x.png" crc="35070080" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slash.png" crc="3801438045" seo="true" ref="index:classes:products">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="classes" alt=""/>
+      <caption webpage="classes" alt=""/>
+    </file>
+    <file name="slash_2x.png" crc="4127014152" seo="true" ref="index:classes:products">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="classes" alt=""/>
+      <caption webpage="classes" alt=""/>
+    </file>
+    <file name="cclasses.png" crc="3893441368" seo="true" ref="index:classes:products">
+      <caption webpage="index" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="classes" alt=""/>
+    </file>
+    <file name="cclasses_2x.png" crc="3893441368" seo="true" ref="index:classes:products">
+      <caption webpage="index" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="classes" alt=""/>
+    </file>
+    <file name="products110x13.png" crc="3917571113" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="products110x13_2x.png" crc="3917571113" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sakdjgfaskjdhfgsdf1024x1149.png" crc="482201655" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sakdjgfaskjdhfgsdf1024x1149_2x.png" crc="482201655" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lip-logo-williamking138x97.png" crc="71827095" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lip-logo-williamking138x97_2x.png" crc="297974018" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="email.png" crc="4102625538" seo="true" ref="index:classes:products">
+      <caption webpage="index" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="classes" alt=""/>
+    </file>
+    <file name="email_2x.png" crc="4102625538" seo="true" ref="index:classes:products">
+      <caption webpage="index" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="classes" alt=""/>
+    </file>
+    <file name="email222x15.png" crc="4102625538" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="email222x15_2x.png" crc="4102625538" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="name.png" crc="322827190" seo="true" ref="index:classes:products">
+      <caption webpage="index" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="classes" alt=""/>
+    </file>
+    <file name="name_2x.png" crc="322827190" seo="true" ref="index:classes:products">
+      <caption webpage="index" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="classes" alt=""/>
+    </file>
+    <file name="number.png" crc="23147572" seo="true" ref="index:classes:products">
+      <caption webpage="index" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="classes" alt=""/>
+    </file>
+    <file name="number_2x.png" crc="23147572" seo="true" ref="index:classes:products">
+      <caption webpage="index" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="classes" alt=""/>
+    </file>
+    <file name="number121x12.png" crc="23147572" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="number121x12_2x.png" crc="23147572" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="about.png" crc="35070080" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="about_2x.png" crc="35070080" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="break-line.jpg" crc="4209071218" seo="true" ref="index:classes:products">
+      <caption webpage="index" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="classes" alt=""/>
+    </file>
+    <file name="break-line_2x.jpg" crc="197320459" seo="true" ref="index:classes:products">
+      <caption webpage="index" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="classes" alt=""/>
+    </file>
+    <file name="sakdjgfaskjdhfgsdf1026x1152.png" crc="482201655" seo="true" ref="classes">
+      <caption webpage="classes" alt=""/>
+    </file>
+    <file name="sakdjgfaskjdhfgsdf1026x1152_2x.png" crc="482201655" seo="true" ref="classes">
+      <caption webpage="classes" alt=""/>
+    </file>
+    <file name="sakdjgfaskjdhfgsdf1085x1217.png" crc="482201655" seo="true" ref="classes">
+      <caption webpage="classes" alt=""/>
+    </file>
+    <file name="classes.png" crc="117533472" seo="true" ref="classes">
+      <caption webpage="classes" alt=""/>
+    </file>
+    <file name="classes_2x.png" crc="117533472" seo="true" ref="classes">
+      <caption webpage="classes" alt=""/>
+    </file>
+    <file name="monday-evening.png" crc="472064114" seo="true" ref="classes">
+      <caption webpage="classes" alt=""/>
+    </file>
+    <file name="monday-evening_2x.png" crc="472064114" seo="true" ref="classes">
+      <caption webpage="classes" alt=""/>
+    </file>
+    <file name="wednesday-evenings.png" crc="70176511" seo="true" ref="classes">
+      <caption webpage="classes" alt=""/>
+    </file>
+    <file name="wednesday-evenings_2x.png" crc="70176511" seo="true" ref="classes">
+      <caption webpage="classes" alt=""/>
+    </file>
+    <file name="omata.png" crc="192505273" seo="true" ref="classes">
+      <caption webpage="classes" alt=""/>
+    </file>
+    <file name="omata_2x.png" crc="192505273" seo="true" ref="classes">
+      <caption webpage="classes" alt=""/>
+    </file>
+    <file name="ingle.png" crc="4147663039" seo="true" ref="classes">
+      <caption webpage="classes" alt=""/>
+    </file>
+    <file name="ingle_2x.png" crc="4147663039" seo="true" ref="classes">
+      <caption webpage="classes" alt=""/>
+    </file>
+    <file name="monday.png" crc="277826876" seo="true" ref="classes">
+      <caption webpage="classes" alt=""/>
+    </file>
+    <file name="monday_2x.png" crc="277826876" seo="true" ref="classes">
+      <caption webpage="classes" alt=""/>
+    </file>
+    <file name="wednesdays.png" crc="347778986" seo="true" ref="classes">
+      <caption webpage="classes" alt=""/>
+    </file>
+    <file name="wednesdays_2x.png" crc="347778986" seo="true" ref="classes">
+      <caption webpage="classes" alt=""/>
+    </file>
+    <file name="slashblack.png" crc="4285979557" seo="true" ref="classes">
+      <caption webpage="classes" alt=""/>
+    </file>
+    <file name="slashblack_2x.png" crc="4205432644" seo="true" ref="classes">
+      <caption webpage="classes" alt=""/>
+    </file>
+    <file name="sakdjgfaskjdhfgsdf.png" crc="482201655" seo="true" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="sakdjgfaskjdhfgsdf1071x1202.png" crc="482201655" seo="true" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="products.png" crc="3917571113" seo="true" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="products_2x.png" crc="3917571113" seo="true" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="232833851" seo="true" mt="1548398761998" redirect="true"/>
+  <file name="classes.html" crc="3940245459" seo="true" mt="1548398761998" redirect="true"/>
+  <file name="products.html" crc="4282507402" seo="true" mt="1548398761998" redirect="true"/>
+</manifest>
